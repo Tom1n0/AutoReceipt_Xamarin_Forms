@@ -15,7 +15,7 @@ namespace AutoReceipt
             var listview = new ListView ();
             public class Product
             {
-               
+               aaaaaa
             }
 
 
